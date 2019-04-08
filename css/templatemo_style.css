@@ -523,9 +523,9 @@ hr {
 
 .service-item {
   position: relative;
-  width: 220px;
+  width: 280px;
   height: 400px;
-  color: white;
+  color: orangered;
   text-align: center;
   margin-bottom: 20px;
 }
@@ -541,12 +541,12 @@ hr {
 .service-item .service-icon h3 {
   font-size: 2.2em;
   font-weight: bold;
-  color: white;
+  color: papayawhip;
   padding: 110px 0;
 }
 .service-item .service-icon i{
   padding-top: 00px;
-  font-size: 4em;
+  font-size: 5em;
 }
 .service-item .service-content {
   padding: 10px;
@@ -574,7 +574,7 @@ hr {
   margin-bottom: 15px;
 }
 .service-item .service-content p {
-  font-size: 13px;
+  font-size: 14px;
   text-align: justify;
   color: white;
   display: inline-block;
@@ -590,7 +590,7 @@ hr {
 }
 
 #service-1 {
-  background-color: rgb(5, 38, 93);
+  background-color: rgb(116, 47, 145);
 }
 
 #service-2 {
@@ -598,7 +598,7 @@ hr {
 }
 
 #service-3 {
-  background-color: rgb(5, 38, 93);
+  background-color: rgb(69, 150, 67);
 }
 
 #service-4 {
@@ -671,8 +671,8 @@ hr {
   -moz-border-radius: 50%;
 }
 .team-member .member-thumb img {
-  width: 380px;
-  height: 250px;
+  width: 980px;
+  height: 400px;
 }
 .team-member .member-thumb .team-overlay {
   position: absolute;
